@@ -71,7 +71,7 @@ A modern full-stack personal finance tracker that helps users manage their incom
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Ravik27280/FinTrack.git
+   git clone https://github.com/Shivkumarraghuwanshi/FINTRACK.git
    cd FinTrack
    ```
 
@@ -144,8 +144,8 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 
 ## 🧑‍💻 Author
 
-**Ravi Vishwakarma**  
-[GitHub](https://github.com/Ravik27280) | [LinkedIn](https://www.linkedin.com/in/ravi-vishwakarma27280)
+**Shivkumar raghuwanshi**  
+[GitHub](https://github.com/Shivkumarraghuwanshi/FINTRACK.git) 
 
 ---
 
